@@ -1,2 +1,2 @@
-# Kickstarter-Analysis-v3.0
+# An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends
