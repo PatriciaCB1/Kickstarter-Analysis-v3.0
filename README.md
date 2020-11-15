@@ -3,7 +3,7 @@ Performing analysis on kickstarter data to uncover trends
 # Kickstarting with Excel
 
 ## Overview of Project
-The aim of this project is to analyze Kickstarter data from past campaings to uncover trends across various attributes leading to better understandinding and an ability to potentially predict successful outcomes in future.  Specifically for this research we will look for co-relations between Launch Date for theatre campaigns and their outcomes.  We will further look at the subgroup Plays to understand the co-relation between Goal and success of the campaign
+The aim of this project is to analyze Kickstarter data from past campaings to uncover trends across various attributes leading to better understanding and an ability to potentially predict successful outcomes in future.  Specifically for this research we will look for co-relations between Launch Date for theatre campaigns and their outcomes.  We will further look at the subgroup Plays to understand the co-relation between Goal and success of the campaign
 
 ### Purpose
 The purpose of this analysis is to look for trends and co-relations in the data for past campaigns that could provide a blueprint future Kickstarter campaigns could use to further their success.  
